@@ -17,6 +17,8 @@ projects[job_scheduler][version] = 2.0-alpha3
 projects[entity][version] = 1.6
 projects[jquery_update][version] = 2.6
 projects[date][version] = 2.8
+projects[field_tools][version] = 1.0-alpha8
+projects[field_validation][version] = 2.6
 
 ; Data I/O
 projects[restws][version] = 2.4
