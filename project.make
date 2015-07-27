@@ -15,6 +15,7 @@ projects[platform][version] = 1.3
 ; Prereqs
 projects[job_scheduler][version] = 2.0-alpha3
 projects[entity][version] = 1.6
+projects[jquery_update][version] = 2.6
 
 ; Data I/O
 projects[restws][version] = 2.4
