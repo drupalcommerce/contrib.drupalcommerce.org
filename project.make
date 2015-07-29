@@ -20,7 +20,8 @@ projects[date][version] = 2.8
 projects[field_tools][version] = 1.0-alpha8
 projects[field_validation][version] = 2.6
 projects[token][version] = 1.6
-projects[feeds_tamper_string2id'][version] = 1.0
+projects[feeds_tamper_string2id][version] = 1.0
+projects[entityreference][version] = 1.1
 
 ; Data I/O
 projects[restws][version] = 2.4
