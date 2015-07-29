@@ -44,6 +44,6 @@ projects[views][version] = 3.11
 projects[ctools][version] = 1.7
 
 ; Misc
-projects[bootstrap][version] = 3.0
+projects[bootstrap][version] = 3.x-dev
 projects[css_injector][version] = 1.10
 projects[block_class][version] = 2.1
