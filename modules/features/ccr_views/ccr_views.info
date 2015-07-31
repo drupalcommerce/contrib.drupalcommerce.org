@@ -1,0 +1,15 @@
+name = CCR Views
+description = All of the views CCR provides to users.
+core = 7.x
+package = CCR
+version = 7.x-1.0
+dependencies[] = entityreference
+dependencies[] = views
+features[ctools][] = views:views_default:3.0
+features[features_api][] = api:2
+features[views_view][] = all_modules
+features[views_view][] = module_name_contextual_filter
+features[views_view][] = payment_modules
+features[views_view][] = sandboxes
+features[views_view][] = shipping_modules
+features_exclude[dependencies][ctools] = ctools

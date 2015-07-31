@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the CCR Content Types feature.
+ */
+
+include_once 'ccr_content_types.features.inc';

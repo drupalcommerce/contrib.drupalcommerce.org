@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the CCR Feeds Importers feature.
+ */
+
+include_once 'ccr_feeds_importers.features.inc';

@@ -1,0 +1,9 @@
+name = CCR Custom Code
+description = Miscellaneous code related to CCR.
+core = 7.x
+package = CCR
+version = 7.x-1.0
+
+banish[menu][] = node
+banish[module][] = feeds_news
+banish[module][] = features_extra_test
