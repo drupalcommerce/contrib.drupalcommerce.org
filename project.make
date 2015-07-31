@@ -56,6 +56,7 @@ projects[features_extra][version] = 1.0-beta1
 projects[module_filter][version] = 2.0
 projects[admin_menu][version] = 3.0-rc5
 projects[adminimal_theme][version] = 1.21
+projects[banish][version] = 1.x-dev
 
 ; Reporting / Charts
 projects[views_date_format_sql][version] = 3.1
