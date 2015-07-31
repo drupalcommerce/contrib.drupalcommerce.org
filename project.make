@@ -47,3 +47,16 @@ projects[ctools][version] = 1.7
 projects[bootstrap][version] = 3.x-dev
 projects[css_injector][version] = 1.10
 projects[block_class][version] = 2.1
+
+; Features
+projects[features][version] = 2.6
+projects[features_extra][version] = 1.0-beta1
+
+; Admin
+projects[module_filter][version] = 2.0
+projects[admin_menu][version] = 3.0-rc5
+projects[adminer][version] = 1.1
+
+; Reporting / Charts
+projects[views_date_format_sql][version] = 3.1
+projects[charts][version] = 2.0-rc1
