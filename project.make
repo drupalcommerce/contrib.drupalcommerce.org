@@ -3,7 +3,7 @@ core = 7.x
 
 ; Drupal core.
 projects[drupal][type] = core
-projects[drupal][version] = 7.38
+projects[drupal][version] = 7.39
 projects[drupal][patch][] = "https://drupal.org/files/issues/install-redirect-on-empty-database-728702-36.patch"
 
 ; Drush make allows a default sub directory for all contributed projects.
@@ -16,8 +16,8 @@ projects[platform][version] = 1.3
 projects[job_scheduler][version] = 2.0-alpha3
 projects[entity][version] = 1.6
 projects[jquery_update][version] = 2.6
-projects[date][version] = 2.8
-projects[field_tools][version] = 1.0-alpha8
+projects[date][version] = 2.9
+projects[field_tools][version] = 1.0-alpha9
 projects[field_validation][version] = 2.6
 projects[token][version] = 1.6
 projects[feeds_tamper_string2id][version] = 1.0
@@ -41,7 +41,7 @@ projects[link][version] = 1.3
 
 ; Views
 projects[views][version] = 3.11
-projects[ctools][version] = 1.7
+projects[ctools][version] = 1.9
 
 ; Misc
 projects[bootstrap][version] = 3.x-dev
@@ -55,7 +55,7 @@ projects[features_extra][version] = 1.0-beta1
 ; Admin
 projects[module_filter][version] = 2.0
 projects[admin_menu][version] = 3.0-rc5
-projects[adminimal_theme][version] = 1.21
+projects[adminimal_theme][version] = 1.22
 projects[banish][version] = 1.x-dev
 
 ; Reporting / Charts
