@@ -61,3 +61,7 @@ projects[banish][version] = 1.0
 ; Reporting / Charts
 projects[views_date_format_sql][version] = 3.1
 projects[charts][version] = 2.0-rc1
+
+; Analytics
+projects[google_analytics][version] = 2.1
+
